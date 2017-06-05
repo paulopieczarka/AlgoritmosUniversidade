@@ -1,0 +1,10 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.fluent-nav {
+	-fx-background-color:white;
+	-fx-padding:16px;
+}
+
+.fluent-nav button {
+	-fx-border-width:0px;
+}
