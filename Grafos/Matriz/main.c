@@ -1,14 +1,12 @@
 #include <stdio.h>
-
-#include "grafo.c"
+#include "grafo_matriz.h"
 
 int main()
 {
-	printf("\n Hello, World!\n\n");
+    printf("Hello, World!\n");
 
-	gerarGrafoAleatorio();
+    Grafo *g;
+    geraGrafoVazio(g, 4);
 
-	printf("\n\n");
-
-	return 0;
+    return 0;
 }
