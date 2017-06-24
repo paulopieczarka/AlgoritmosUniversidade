@@ -1,0 +1,62 @@
+<header>Inventario Forças Armadas</header>
+
+<metadata> 
+	<version>1.0</version>
+	<coding>ISO 8859-1</coding>
+	<type>
+		Veiculos Militares
+	</type>
+</metadata>
+
+<data>
+	<veiculo 
+		tipo="aeronave" 
+		subtipo="avião" 
+		classe="caça" 
+		modelo="F-5EM/FM" 
+		quantidade="57" 
+		hardpoints="8" 
+		canhão20mm="2" 
+		foguetesHidra70="19"
+	>
+
+	<veiculo tipo="aeronave" subtipo="avião" classe="Ataque ao solo" modelo="AMX" quantidade="57" hardpoints="6" canhão30mm="2" >
+	<veiculo tipo="aeronave" subtipo="avião" classe="Caça leve/Treinamento" modelo="Tucano EMB-312" quantidade="109" metralhdora12.7mm="2">
+	<veiculo tipo="aeronave" subtipo="avião" classe="Caça leve/Treinamento Avançado" modelo="Super Tucano EMB-314" quantidade="99" hardpoints="5" metralhadora12.7mm="1">
+	<veiculo tipo="areonave" subtipo="avião" classe="Treinamento básico" modelo="T-25" quantidade="57">
+	<veiculo tipo="aeronave" subtipo="avião" classe="Transporte/Reabastecimento em voo" modelo="Hércules" quantidade="21">
+	<veiculo tipo="aeronave" subtipo="vant" classe="Vigilância aérea/Reconhecimento" modelo="Hermes RQ-450" quantidade="4">
+	<veiculo tipo="aeronave" subtipo="vant" classe="Vigilância aérea/Reconhecimento" modelo="Hermes RQ-900" quantidade="1">
+	<veiculo tipo="aeronave" subtipo="helicóptero" classe="Ataque/Transporte" modelo="Eurocopter H-36" quantidade="18" metralhadora.50="1">
+	<veiculo tipo="aeronave" subtipo="helicóptero" classe="Vigilância aérea/Reconhecimento" modelo="Pantera HM-1 (AS365K)" quantidade="34">
+	<veiculo tipo="aeronave" subtipo="helicóptero" classe="Ataque/Transporte" modelo="AH-2 Sabre" quantidade="34" hardpoints="6" metralhadora12.7mm="1" >
+	<veiculo 
+		tipo="embarcação" 
+		subtipo="fragata" 
+		classe="Defesa/Vigilância Costeira" 
+		modelo="Niterói" 
+		quantidade="6" 
+		misseisAntiaereos="30" 
+		canhão115mm="1" 
+		canhão40mm="2"
+	>
+	<veiculo tipo="embarcação" subtipo="fragata" classe="Defesa/Vigilância Costeira" modelo="Greenhalgh" quantidade="2" misseisCruzeiro="20" canhão115mm="1">
+	<veiculo tipo="embarcação" subtipo="corveta" classe="Defesa/Vigilância Costeira" modelo="Inhaúma" quantidade="2" canhão115mm="1" canhão40mm="2">
+	<veiculo tipo="embarcação" subtipo="submarino" classe="Ataque/Defesa Marítima" modelo="Tupi" quantidade="5" torpedos="15">
+	<veiculo tipo="embarcação" subtipo="submarino" classe="Ataque/Defesa Marítma" modelo="Scorpene" quantidade="1" torpedos="12">
+	<veiculo tipo="terrestre" 
+		subtipo="blindado" 
+		classe="Ataque/Transporte de tropas" 
+		modelo="Cascavel EE-9" 
+		quantidade="409" 
+		metralhadora.50="1" 
+		canhão90mm="1"
+	>
+	<veiculo tipo="terrestre" subtipo="blindado" classe="Ataque/Transporte de tropas" modelo="Urutu EE-11" quantidade="386" metralhadora12.7mm="1">
+	<veiculo tipo="terrestre" subtipo="blindado" classe="Ataque/Transporte de tropas" modelo="Guarani VBTP-MR" quantidade="215" metralhadora12.7mm="1" canhão30mm="1">
+	<veiculo tipo="terrestre" subtipo="lança foguetes" classe="Ataque" modelo="Astros 2020" quantidade="20" metralhadora.50="1">
+	<veiculo tipo="terrestre" subtipo="lança foguetes" classe="Ataque" modelo="Astros MK2" quantidade="20" metralhadora.50="1">
+	<veiculo tipo="terrestre" subtipo="artilharia autopropulsada" classe="Ataque" modelo="M109A5" quantidade="36" canhão155mm="1" metralhadora.50="1">
+	<veiculo tipo="terrestre" subtipo="artilharia autopropulsada" classe="Ataque" modelo="M-108AP" quantidade="36" canhão155mm="1" metralhadora.50="1">
+</data>>
+ 
