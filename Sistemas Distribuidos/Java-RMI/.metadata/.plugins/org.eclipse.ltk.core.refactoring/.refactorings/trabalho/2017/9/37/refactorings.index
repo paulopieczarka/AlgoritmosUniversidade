@@ -1,0 +1,15 @@
+1505053799029	Rename type 'MainClient'
+1505053802431	Rename type 'MainServer'
+1505053829142	Rename package 'com.paulopieczarka.comm'
+1505053853578	Move compilation unit
+1505054352039	Rename type 'Server'
+1505056325652	Rename type 'EDirection'
+1505056934120	Move compilation unit
+1505056936948	Move compilation unit
+1505056939752	Move compilation unit
+1505056942234	Move compilation unit
+1505149656182	Move compilation unit
+1505149660070	Delete element
+1505149667075	Rename type 'WorldPacket'
+1505149686112	Rename type 'EPlayerAction'
+1505150424412	Delete element
